@@ -1,0 +1,21 @@
+#log {
+  min-height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: coral;
+}
+
+.login {
+  height: 250px;
+  width: 300px;
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#log-input {
+  width: 200px;
+}

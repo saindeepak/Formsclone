@@ -1,0 +1,39 @@
+.preview {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: max-content;
+  overflow: auto;
+  margin-top: 2.5px;
+  background-color: thistle;
+  color: black;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.quespreview {
+  width: 770px;
+  min-height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-items: self-start;
+  overflow: auto;
+  background-color: white;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.previewtitle {
+  width: 787px;
+  min-height: 50px;
+  height: min-content;
+  display: flex;
+  flex-direction: column;
+  justify-items: self-start;
+  overflow: auto;
+  background-color: white;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 10px;
+}

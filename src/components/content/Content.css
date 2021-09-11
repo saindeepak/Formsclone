@@ -1,0 +1,45 @@
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 82vh;
+  overflow: auto;
+  margin-top: 2.5px;
+  background-color: #ede7f6;
+  color: black;
+  font-weight: bold;
+  border-radius: 0 0 10px 10px;
+}
+
+.formtitle {
+  width: 770px;
+  min-height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-items: self-start;
+  background-color: #ffffff;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#fab-button {
+  position: absolute;
+  bottom: 25px;
+  right: 150px;
+}
+
+#title {
+  height: max-content;
+  font-size: 15pt;
+  padding: 2px;
+  width: 720px;
+  font-weight: bold;
+}
+
+#desc {
+  height: min-content;
+  font-size: 10pt;
+  padding: 2px;
+  width: 720px;
+}

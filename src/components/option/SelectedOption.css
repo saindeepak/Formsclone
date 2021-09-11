@@ -1,0 +1,23 @@
+.opt {
+  min-height: 85px;
+  border-radius: 5px;
+  padding: 10px;
+  overflow: auto;
+}
+
+.myinput {
+  display: block;
+  margin: 5px;
+  padding: 5px;
+  width: 80%;
+}
+
+.add-opt {
+  padding-right: 10px;
+  /* margin-top: 10px; */
+}
+
+.adopt {
+  margin-top: -15px !important;
+  text-transform: capitalize !important;
+}
